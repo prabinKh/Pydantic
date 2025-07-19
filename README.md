@@ -2,7 +2,7 @@
 
 
 
- Built with **FastAPI**, **Pydantic**, and **Uvicorn**. This project demonstrates how to use Pydantic for data validation and Uvicorn for serving high-performance asynchronous web applications.
+Pydantic is a high-performance data validation and parsing library that leverages Python type hints to ensure your data is correct at runtime. Written in Rust for speed, it converts raw input (JSON, form data, environment variables, etc.) into strongly-typed Python objects.
 
 ## Table of Contents
 - [Overview](#overview)
