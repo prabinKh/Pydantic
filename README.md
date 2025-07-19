@@ -1,8 +1,6 @@
 # Pydantic
 
 
-# Bookstore API
-
 
  Built with **FastAPI**, **Pydantic**, and **Uvicorn**. This project demonstrates how to use Pydantic for data validation and Uvicorn for serving high-performance asynchronous web applications.
 
@@ -21,8 +19,7 @@
 - [Troubleshooting](#troubleshooting)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Resources](#resources)
+
 
 ## Overview
 The Bookstore API allows users to manage book entries with validated data models. It leverages:
