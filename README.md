@@ -7,6 +7,7 @@ Pydantic is a high-performance data validation and parsing library that leverage
 ## Table of Contents
 - [Overview](#overview)
 - [What is Pydantic?](#what-is-pydantic)
+- 
 - [Benefits of Pydantic](#benefits-of-pydantic)
 - [Why Use Pydantic?](#why-use-pydantic)
 - [What is Uvicorn?](#what-is-uvicorn)
